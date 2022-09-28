@@ -92,7 +92,8 @@ export default {
 header {
   display: flex;
   justify-content: space-between;
-  padding-top: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 img {
@@ -108,7 +109,7 @@ ul {
   font-size: 0.7rem;
   li {
     height: 100%;
-    padding: 10px;
+    padding: 0px 10px;
     a {
       display: flex;
       height: 100%;
