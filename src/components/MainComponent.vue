@@ -1,5 +1,6 @@
 <template>
   <main>
+    <!-- Contenuto sito -->
     <div class="container">&#8674; Content goes here &#8672;</div>
   </main>
 </template>
