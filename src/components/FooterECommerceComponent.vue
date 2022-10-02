@@ -57,12 +57,12 @@ export default {
     height: 100%;
     list-style-type: none;
     text-transform: uppercase;
-    font-weight: bold;
+    font-size: 0.9rem;
     li {
       height: 100%;
-      padding: 0px 10px;
+      padding: 25px 50px;
+
       a {
-        display: flex;
         height: 100%;
         align-items: center;
         text-decoration: none;
